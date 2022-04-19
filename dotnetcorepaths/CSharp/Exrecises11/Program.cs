@@ -27,5 +27,6 @@ namespace Exrecises11
             Console.WriteLine("Ortalama:"+multiple/arrayLength1);
             
         }
+        
     }
 }
